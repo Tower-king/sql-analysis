@@ -42,4 +42,4 @@ SQL
 - README documentation
   
 📸 **Screenshots**
-(Add screenshots here)
+![SQL Analysis](https://github.com/Tower-king/sql-analysis/blob/main/screenshot.JPG?raw=true)
